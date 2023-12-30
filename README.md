@@ -1,4 +1,6 @@
-# 1desafio-dio
+# <h1>Aprendendo a utilizar as ferramentas</h1>
+# <h3> Esse repositorio tem como objetivo realizar os testes e colocar em prática os conhecimentos.</h3>  <br>
+# 1° desafio-dio
 Repositório para completar o desafio da DIO, aprendendo a usar o git e vscode   
 Este programa tem como objetivo aplicar os conhecimentos adquiridos no curso para a construção de um <strong> Classificador de Herói </strong>. <br>
 <h2> O projeto deve </h2>
