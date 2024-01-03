@@ -1,3 +1,4 @@
+#include<stdio.h>
 int main() {
     // Defina o nome e a quantidade de experiência (XP) do herói
     char nomeDoHeroi[50];
